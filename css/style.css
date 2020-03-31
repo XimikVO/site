@@ -1,0 +1,195 @@
+body{
+	font-family: Lato !important;
+}
+.zaglavie{
+	position: absolute;
+	width: 420px;
+	font-family: 'Open Sans';
+	text-align: center;
+}
+.my-navbar-control{
+	margin-left: 570px !important;
+}
+.navbar-brand{
+	width: 40px;
+}
+
+.my-hello-world{
+	position: absolute;
+	font-size: 40px;
+	margin-left: 450px;
+	margin-top: -408px;
+	font-family: 'Open Sans';
+}
+.my-div-lorem{
+	position: absolute;
+	font-family: 'Open Sans';
+	color: #616468;
+	text-align: center;
+}
+.my-div-lorem-1{
+	width: 470px;	
+	margin-top: -340px;
+	margin-left: 320px;	
+}
+.the-easiest {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	height: 700px;
+	width: 100%;
+	background: #ffffffff;
+	text-align: center;
+}
+.kartinka-animazia{
+	width: 180px !important;
+	margin-left: 60px;
+}
+.zagl-1{
+	margin-top: 88px;
+}
+.my-div-lorem-2{
+	width: 620px;
+	margin-left: -75px;
+}
+.card1{
+	margin-left: 50px;
+	width: 300px;
+	height: 290px;
+	margin-top: 283px;
+	border: none !important;
+}
+.card2{
+	margin-left: 50px;
+	width: 300px;
+	height: 290px;
+	margin-top: 283px;
+	border: none !important;
+}
+.card3{
+	margin-left: 50px;
+	width: 300px;
+	height: 290px;
+	margin-top: 283px;
+	border: none !important;
+}
+.zapolnenie-grad{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 100%;
+	height: 50px;
+	margin-top: -240px;
+}
+/*Картинки-начало*/
+.chel {
+	width: 50px;
+}
+.suitcase{
+	display: flex !important;
+	flex-direction: row;
+	margin-left: 208px;
+	width: 50px !important;
+}
+.heart{
+	width: 50px;
+	margin-left: 208px;
+}
+.rocket{
+	width: 50px;
+	margin-left: 208px;
+}
+/*Картинки-конец*/
+/*Цифры начало*/
+.tsifri-grad{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 100%;
+	height: 45pt;
+}
+.clients-14{
+	font-size: 45pt !important;
+	color: #ffffffff !important;
+	margin-left: -5px;
+}
+.case-32{
+	font-size: 45pt !important;
+	color: #ffffffff !important;
+	margin-left: 190px;
+}
+.serdze-38{
+	font-size: 45pt !important;
+	color: #ffffffff !important;
+	margin-left: 190px;
+}
+.sites-29{
+	font-size: 45pt !important;
+	color: #ffffffff !important;
+	margin-left: 190px;
+}
+/*Цифры конец*/
+/*Буквы начало*/
+.text-grad{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 100%;
+	height: 45pt;
+	margin-top: 25px;
+}
+.clients{
+	margin-left: 25px;
+	font-size: 11pt !important;
+	color: #ffffffff !important;
+}
+.case{
+	margin-left: 190px;
+	font-size: 11pt !important;
+	color: #ffffffff !important;
+}
+.serdze{
+	margin-left: 150px;
+	font-size: 11pt !important;
+	color: #ffffffff !important;
+}
+.sites{
+	margin-left: 120px;
+	font-size: 11pt !important;
+	color: #ffffffff !important;
+}
+/*Буквы конец*/
+.super-all{
+	width: 100%;
+	background: #ffffffff;
+	margin-top: 45px;
+}
+.all-the-need{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	
+	
+}
+.zagl-2 {
+	margin-top: 86px;
+}
+.bloki1{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 300px;
+}
+.static-card{
+	border: none !important;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.static-img{
+	width: 50px !important;
+	margin-left: 150px;
+}
+.bloki2{
+	margin-top: 45px;
+}
