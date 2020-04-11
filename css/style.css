@@ -1,6 +1,12 @@
 body{
 	font-family: Lato !important;
 }
+.ten-cont{
+	width: 1110px;
+	box-shadow: 0 0 15px 5px;
+    margin-top: 60px !important;
+    margin-bottom: 60px !important;
+}
 .zaglavie{
 	width: 420px;
 	font-family: 'Open Sans';
@@ -174,13 +180,11 @@ body{
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
-	margin-top: 300px;
+	margin-top: 30px;
+	text-align: center;
 }
 .static-card{
 	border: none !important;
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
 }
 .static-img{
 	width: 50px !important;
@@ -188,24 +192,218 @@ body{
 }
 .bloki2{
 	margin-top: 45px;
+	text-align: center;
 }
+.card-zapolnenie{
+	color: #616468;
+}
+
+
+
 .photo-text{
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
 	background: #ffffffff;
+	width: 100%;
+	margin-left: 0px !important;
 }
 .zagl-3{
-	margin-top: 160px;
+	margin-top: 166px;
+	max-width: 50% !important;
 }
 .my-div-lorem-4 {
-	width: 150%;
-	margin-left: -85px;
+	width: 100%;
 }
 .photoapparat-img{
 	display: inline-block;
 	width: 50px;
 }
 .capt-every {
-	font-size: 18px;
+	font-size: 18pt;
+	width: 70%;
+}
+.photoapp-div {
+	margin-top: 64px !important;
+}
+.my-text-lorem {
+	font-family: 'Open Sans';
+	color: #616468;
+}
+.my-div-lorem-5 {
+	width: 100%;
+}
+.photoapp{
+	margin-left: 200px;
+}
+.photoapp-right{
+	width: 70%;
+}
+.photoapp-div2 {
+	margin-top: 64px !important;
+	margin-left: 150px !important;
+}
+.g-app-btn{
+	width: 200px;
+	height: 200px;
+}
+.internet-but{
+	display: inline-block;
+}
+.internet-but1{
+	display: inline-block;
+	margin-top: 15px;
+}
+.latest-news{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background: #f7f8f9;
+	width: 100%;
+	margin-left: 0px !important;
+	padding-top: 85px;
+}
+.latest-news-card{
+	background: #f7f8f9;
+	width: 100%;
+	padding-top: 35px;
+	padding-bottom: 110px;
+}
+.red-title-top{
+	color: red !important;
+}
+.our-awesome{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background: #ffffffff;
+	width: 100%;
+	margin-left: 0px !important;
+	padding-top: 90px;
+}
+.my-div-lorem-6{
+	width: 465px;
+	right: 0;
+	left: 0;
+	margin: auto;
+}
+.our-awesome-gallery{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background: #ffffffff;
+	width: 100%;
+	margin-left: 0px !important;
+	padding-top: 50px;
+}
+.text-gallery0{
+	color: red;
+}
+.text-gallery{
+	color: red;
+	margin-left: 10px;
+}
+.gallery{
+	background: #ffffffff;
+	width: 100%;
+	margin-left: 0px !important;
+	padding-bottom: 100px;
+	padding-top: 30px;
+}
+.gallery-align{
+	text-align: center;
+}
+.gallery-photo{
+	width: 300px;
+	border-radius: 2%;
+}
+.gellery-link{
+	text-decoration: none;
+}
+.gellery-link:hover{
+	text-decoration: none !important;
+}
+.pricing{
+	background: #f7f8f9;
+	width: 100%;
+	margin-left: 0px !important;
+	padding-top: 90px;
+}
+.tseni-viravnivanie{
+	text-align: center;
+}
+.tseni{
+	padding-top: 35px;
+	padding-bottom: 100px;
+}
+.card-text-pric{
+	text-align: center;
+	margin-left: 35px;
+}
+.zagl-pric1{
+	color: #f6ba51;
+}
+.zagl-pric2{
+	color: #43b7ad;
+}
+.zagl-pric3{
+	color: #f2655f;
+}
+.size{
+	font-size: 25px;
+	font-family: 'Yeseva One' !important;
+}
+.text-pric-color{
+	color: #616468; 
+	margin-top: -13px;
+}
+.text-pric-color1{
+	color: #616468; 
+	margin-top: -20px;
+}
+.pric-btn{
+	display: block;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	width: 100%;
+	text-align: center;
+	left: 0;
+	right: 0;
+	margin: auto;
+	text-decoration: none !important;
+	color: #ffffffff;
+}
+.pric-btn-color1{
+	background: #f6ba51;
+}
+.pric-btn-color2{
+	background: #43b7ad;
+}
+.pric-btn-color3{
+	background: #f2655f;
+}
+.final-top{
+	background: #ffffffff;
+	width: 100%;
+	margin-left: 0px !important;
+	padding-bottom: 100px;
+	padding-top: 90px;
+}
+.final-top-bottom{
+	text-align: center;
+}
+.companii{
+	width: 105px;
+}
+.final-bottom{
+	background: #ffffffff;
+	width: 100%;
+	margin-left: 0px !important;
+	padding-bottom: 15px;
+	padding-top: 22px;
+	padding-left: 30px;
+	border-top: 1px solid #616468;
+}
+.final-red{
+	color: #f2655f;
 }
